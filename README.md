@@ -3,7 +3,7 @@
 
 **`Computer Science Student`**
 
-⚡ I´m a Computer Science student currenly learning web development using react
+⚡ I´m a Computer Science student currently learning web development using react
 
 ### 🧰 Languages and Tools
 
